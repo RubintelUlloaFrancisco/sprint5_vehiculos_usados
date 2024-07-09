@@ -1,4 +1,7 @@
-pandas
-plotly_express
 streamlit
-nbformat
+pandas
+plotly
+seaborn
+matplotlib
+networkx
+scikit-learn
