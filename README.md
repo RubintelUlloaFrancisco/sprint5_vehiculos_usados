@@ -13,7 +13,7 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/RubintelUlloaFrancisco/pp_sprint5.git
+   git clone https://github.com/RubintelUlloaFrancisco/sprint5_vehiculos_usados.git
    cd pp_sprint5
 
 Despliegue en la Nube
